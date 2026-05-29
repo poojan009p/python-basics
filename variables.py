@@ -6,3 +6,6 @@ python """
 
 name = "Poojan Thummer" #-> variable then  value
 age = "23"              #-> variable then  value
+
+print(name)  #-> used to see output
+print(age)   #-> used to see output
