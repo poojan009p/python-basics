@@ -1,3 +1,5 @@
+ #______Variable______
+
 name = "Poojan"
 age = 23
 height = 5.8
@@ -5,3 +7,22 @@ height = 5.8
 print(name)
 print(age)
 print(height)
+
+#_______Data types_____ 
+
+#---Integer
+x = 10
+
+#---Float
+price = 99.5
+
+#---String
+name = "Python"
+
+#---Boolean
+is_learning = True
+
+print(type(x))
+print(type(price))
+print(type(name))
+print(type(is_learning))
