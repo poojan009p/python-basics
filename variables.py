@@ -5,5 +5,4 @@
 python """
 
 name = "Poojan Thummer" #-> variable then  value
-Gender = "Male"         #-> variable then  value
 age = "23"              #-> variable then  value
