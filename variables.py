@@ -1,5 +1,5 @@
 
-#------variables------- 
+#------VARIABLES------- 
 
 """ Variables are used as a storage to store things in 
 python """
