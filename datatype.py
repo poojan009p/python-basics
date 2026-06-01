@@ -40,3 +40,7 @@ poojan = """!@#$%^&*()_+/-+"""
 
 learning = True
 nolearning = False
+
+# End of Program
+# Thank You
+# Program Finished
