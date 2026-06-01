@@ -13,3 +13,7 @@ age = "23"              #-> variable then  value
 
 print(name)  #-> used to see output
 print(age)   #-> used to see output
+
+# End of Program
+# Thank You
+# Program Finished
