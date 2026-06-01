@@ -1,4 +1,9 @@
-# All about type conversion
+"""
+Topic: Type Conversions
+Author: Poojan
+Description: Basic examples of Python type conversion.
+
+"""
 
 int()
 float()
@@ -24,6 +29,36 @@ b = float() # converted into float
 print(type(b)) #= type float
 
 "-------------------------------------------------------------"
-# into float 
+# into string
 
+c = 9.0  # value in float
 
+c = str() # converted into string
+
+print(type(c)) #= type str
+
+"-------------------------------------------------------------"
+# into bool
+
+d = 9.0  # value in float
+
+d = bool() # converted into boolean
+
+print(type(d)) #= type bool
+
+"There are 7 Falsy values in total"
+
+""" 
+0
+0.0
+false
+""
+[]
+{}
+()
+
+"""
+
+# End of Program
+# Thank You
+# Program Finished

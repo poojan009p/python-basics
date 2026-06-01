@@ -1,4 +1,8 @@
-
+"""
+Topic: Variables
+Author: Poojan
+Description: Basic examples of Python variables.
+"""
 #------VARIABLES------- 
 
 """ Variables are used as a storage to store things in 

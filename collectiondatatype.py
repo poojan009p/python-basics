@@ -1,4 +1,9 @@
-"""---------COLLECTION DATATYPES--------"""
+"""
+Topic: Collection Data Types
+Author: Poojan
+Description: Basic examples of Python data types.
+
+"""
 
 #-----------------------------------------------------------------------------------------------------------------------------------"
 
