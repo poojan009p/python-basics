@@ -76,3 +76,4 @@ print(a%b)
 # or    - returs true at least one condition is true.
 # not   - returns the boolean value.
 
+# print(True and bool(0)) # bool of 0 is always false
