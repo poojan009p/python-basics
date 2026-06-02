@@ -17,3 +17,12 @@ Description: Basic examples of Python Operators.
 
 # there are total 7 types of arithmetic operators
 
+"""
+addition        - +
+substraction    - -
+multiplication  - *
+division        - /
+floor division  - //
+modulus         - %
+exponential     - **
+"""
