@@ -77,3 +77,7 @@ print(a%b)
 # not   - returns the boolean value.
 
 # print(True and bool(0)) # bool of 0 is always false
+
+# End of Program
+# Thank You
+# Program Finished
