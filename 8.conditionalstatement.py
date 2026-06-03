@@ -21,3 +21,14 @@ x = 9
 if x == 9:              # checks the condition
     print("True")
 
+"--------------------------------------------------------------------------------------------"
+"------If-else condition----"
+
+a = 9
+
+if a == 10:              # checks the condition if true then execute or else will execute
+    print("True")
+
+else : 
+    print("False")
+   
