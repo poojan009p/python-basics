@@ -29,6 +29,19 @@ a = 9
 if a == 10:              # checks the condition if true then execute or else will execute
     print("True")
 
-else : 
+else: 
     print("False")
+
+"--------------------------------------------------------------------------------------------"
+"------If-elif-else condition----"  
    
+num = int(input("Provide any number"))
+
+if num > 0:
+    print("Given number is greater than zero")
+
+elif num == 0:
+    print("Given number is zero")
+
+else :
+    print("Given number is less than zer")
