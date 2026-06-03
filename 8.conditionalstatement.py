@@ -14,4 +14,9 @@ Description: Basic examples of Conditional Statement.
 "   If-else         - executes if True another is False."
 "   If-elif-else    - checks multiple conditions in sequence." 
 
+"------If condition----"
 
+x = 9
+
+if x == 9:              # checks the condition
+    print("True")
