@@ -5,4 +5,10 @@ Description: Basic examples of Conditional Statement.
 """
 
 "--------------------------------------------------------------------------------------------"
-"---if-else---"
+"---Conditional Statement---"
+# It allow to make decision by executing different blocks of codes based on condition
+
+"-------Types of Condition Statements------"
+
+"   If          - executes if the condition is True "
+"   If-else     - executes if True another is False"
