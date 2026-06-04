@@ -38,3 +38,9 @@ for char in p:
 # while p:
     # code to execute
 
+count =0 
+
+while count<=9:
+    print(f"Total count {count}")
+    count += 1
+
