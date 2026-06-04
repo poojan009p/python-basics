@@ -35,5 +35,6 @@ for char in p:
 
 #  it repeats the loop as long as condition is True. It is useful when the number of iteration is unknown.
 
-
+# while p:
+    # code to execute
 
