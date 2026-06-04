@@ -29,4 +29,36 @@ name("poojanThummer")
 "----------------------------------------------------------------------------------------------------------------"
 "---Types of argument---"
 
+# positional argument
+# keyword argument
+# default argument
+
+"---Positional argument---"
+
+def add(a,b): 
+    return a+b
+
+print(add(9,9)) # positional argument
+
+"----------------------------------------------------------------------------------------------------------------"
+"---keyword argument---"
+
+def intro(name,age):
+    print(f"I am {name} and I am {age} years old.")
+
+intro(age=23,name="poojan") #keyword argument
+
+"----------------------------------------------------------------------------------------------------------------"
+"---default argument---"
+
+def welcome(name="Guest"):      #default value is guest
+    print(f"Hello , {name}!")
+
+welcome()               #uses default value "Guest"
+welcome("poojan")       #uses Poojan
+
+# End of Program
+# Thank You
+# Program Finished
+
 
