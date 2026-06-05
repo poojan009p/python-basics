@@ -10,7 +10,7 @@ Description: Basic examples of Python data types.
 "---List---" # All the numbers excluding decimal places and fraction
 
 number = [1,2,3,4,5,6,7,8,9] # syntax[]
-                             # Mutable,Duplicates,Ordered,Heterogenous
+                             # Mutable,Duplicates,Ordered,Heterogenous 
 
 #-----------------------------------------------------------------------------------------------------------------------------------"
 
