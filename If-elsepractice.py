@@ -10,10 +10,9 @@ print("===================================")
 
 # date(05/06/2026)
 
-""" 1. Even or Odd
-
- Write a program that takes a number as input and checks whether it is even or odd."""
-"------------------------------------------------------------------------------------------------------------"
+# --------------------------------------------------
+# Exercise 1: Check whether a number is Even or Odd
+# --------------------------------------------------
 
 num1 = int(input("Provide Your first number - "))
 
@@ -24,14 +23,9 @@ else:
     print(f"{num1} is odd")
 
 "------------------------------------------------------------------------------------------------------------"
-"""2-Positive, Negative, or Zero
-
-Write a program that takes a number and prints:
-
-“Positive” if number > 0
-“Negative” if number < 0
-“Zero” if number == 0"""
-"------------------------------------------------------------------------------------------------------------"
+# -------------------------------------------------------------------
+# Exercise 2: Check whether a number is Positive or Negative or Zero
+# -------------------------------------------------------------------
 
 num2 = int(input("Provide your number - "))
 
@@ -46,14 +40,9 @@ elif num2<0:
 
 "------------------------------------------------------------------------------------------------------------"
 
-"""3. Voting Eligibility
-
-Write a program that takes age as input and checks:
-
-If age ≥ 18 → “Eligible to vote”
-Else → “Not eligible to vote”"""
-
-"------------------------------------------------------------------------------------------------------------"
+# ---------------------------------------------------------------
+# Exercise 3: Check whether person is eligible for voting or not
+# ---------------------------------------------------------------
 
 age = int(input("Provide your age - "))
 
@@ -63,10 +52,9 @@ else:
     print("You are not eligible")
 
 "------------------------------------------------------------------------------------------------------------"
-"""4. Largest of Two Numbers
-
-Take two numbers as input and print which one is greater, or if both are equal."""
-"------------------------------------------------------------------------------------------------------------"
+# ------------------------------------
+# Exercise 4: Find the largest number
+# ------------------------------------
 
 a1 = int(input("Provide first number -  "))
 a2 = int(input("Provide second number -  "))
@@ -79,12 +67,9 @@ elif a1==a2:
     print(f"{a1} {a2} both are equal")
     
 "------------------------------------------------------------------------------------------------------------"
-"""5. Pass or Fail
-
-A student’s marks are given as input.
-
-If marks ≥ 40 → “Pass”
-Else → “Fail”"""
+# -------------------------------------------------
+# Exercise 3: Check whether person is Pass or Fail
+# -------------------------------------------------
 
 a3 = int(input("Provide your obtained marks - "))
 
