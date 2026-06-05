@@ -68,18 +68,32 @@ Else → “Not eligible to vote”"""
 Take two numbers as input and print which one is greater, or if both are equal."""
 "------------------------------------------------------------------------------------------------------------"
 
-a1 = int(input("Provide first number -  "))
-a2 = int(input("Provide second number -  "))
+# a1 = int(input("Provide first number -  "))
+# a2 = int(input("Provide second number -  "))
 
-if a1>a2:
-    print(f"{a1} is greater than {a2}")
-elif a2>a1:
-    print(f"{a2} is greater than {a1}")
-elif a1==a2:
-    print(f"{a1} {a2} both are equal")
+# if a1>a2:
+#     print(f"{a1} is greater than {a2}")
+# elif a2>a1:
+#     print(f"{a2} is greater than {a1}")
+# elif a1==a2:
+#     print(f"{a1} {a2} both are equal")
+    
+"------------------------------------------------------------------------------------------------------------"
+"""5. Pass or Fail
 
+A student’s marks are given as input.
 
+If marks ≥ 40 → “Pass”
+Else → “Fail”"""
 
+a3 = int(input("Provide your obtained marks - "))
+
+if a3 >= 40:
+    print("You passed the test")
+else:
+    print("better luck next time")
+
+"------------------------------------------------------------------------------------------------------------"
 
 
 
