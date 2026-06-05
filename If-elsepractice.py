@@ -8,10 +8,21 @@ print("===================================")
 
 "------------------------------------------------------------------------------------------------------------"
 
+# date(05/06/2026)
+
+""" 1. Even or Odd
+
+ Write a program that takes a number as input and checks whether it is even or odd."""
+
+num1 = int(input("Provide Your first number - "))
 
 
+if num1%2==0 :
+    print(f"{num1} is even")
+else:
+    print(f"{num1} is odd")
 
-
+"------------------------------------------------------------------------------------------------------------"
 
 
 
