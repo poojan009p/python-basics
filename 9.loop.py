@@ -7,7 +7,7 @@ Description: Basic examples of Loops.
 # Loops - Loops in python allow us to execute block of code multiple times without rewriting it.
 
 """---Types of loops---"""
-    # for loop
+    # for loop 
     # while loop
 
 "---For loop---"

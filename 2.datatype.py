@@ -16,7 +16,7 @@ X = 10  # -> value in integer form
 
 "---Float---" # All the decimal numbers and fraction values are Float.
 
-price = 99.5    # value in Decimal 
+price = 99.5    # value in Decimal  
 price = 18/2    # 9.0 is also Float
 
 #-----------------------------------------------------------------------------------------------------------------------------------"

@@ -9,7 +9,7 @@ Description: Basic examples of Python Operators.
 # different tasks like arithmetic, comparison, logical operations, 
 # and more
 
-"--------------------------------------------------------------------------------------------"
+"--------------------------------------------------------------------------------------------" 
 "---Arithmetic operators---"
 
 # Arithmetic operators perform mathematical operations like 
