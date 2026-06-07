@@ -12,3 +12,13 @@ syntax error
 indentation error
 
 """
+
+"Exception handling"
+"""
+try 
+except 
+raise 
+finally
+raise
+
+"""
